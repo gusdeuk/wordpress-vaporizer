@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vaporizer Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-13 18:51-0300\n"
+"PO-Revision-Date: Sun Jul 10 2016 12:17:18 GMT-0300 (Local Standard Time)\n"
+"Last-Translator: superadmin <info@vaporizer-info.com>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:14
+msgid "Page Not Found"
+msgstr ""
+
+#: ../archive.php:43
+msgid " "
+msgstr ""
+
+#: ../archive.php:43
+msgid "Reviews"
+msgstr ""
+
+#. Name of the template
+msgid "Page Contact"
+msgstr ""
+
+#. Name of the template
+msgid "Page Home"
+msgstr ""
+
+#. Name of the template
+msgid "Page Standard"
+msgstr ""
+
+#: ../search.php:14
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:36
+msgid "Results for"
+msgstr ""
+
+#: ../search.php:58
+msgid "No search results found."
+msgstr ""
+
+#: ../sidebar-single-post.php:28
+msgid "Tags"
+msgstr ""
+
+#: ../sidebar-single-post.php:71
+msgid "Choose a category"
+msgstr ""
+
+#: ../sidebar-single-post.php:72
+msgid "Filter"
+msgstr ""
+
+#: ../single.php:253
+msgid "votes"
+msgstr ""
+
+#: ../single.php:295
+msgid "Send"
+msgstr "Senden"
+
+#: ../includes/inc-admin-tuning.php:77
+msgid "NADA"
+msgstr ""
+
+#: ../includes/inc-admin-tuning.php:82
+msgid "Tools"
+msgstr ""
+
+#: ../includes/inc-admin-tuning.php:82
+msgid "Settings"
+msgstr ""
+
+#: ../includes/inc-bones.php:157
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: ../includes/inc-bones.php:224
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../includes/inc-brew.php:13
+msgid "Continue Reading..."
+msgstr ""
+
+#: ../includes/inc-brew.php:197
+msgid "Test Image"
+msgstr ""
+
+#: ../includes/inc-brew.php:198
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: ../includes/inc-comments-init.php:34
+msgid "F jS, Y"
+msgstr ""
+
+#: ../includes/inc-comments-init.php:35
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/inc-comments-init.php:38
+msgid "Your comment is waiting for moderation. Thanks."
+msgstr ""
+
+#: ../includes/inc-multirating-pro.php:16
+msgid "Name is required."
+msgstr ""
+
+#: ../includes/inc-multirating-pro.php:24
+msgid "E-mail is required."
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:23
+msgid "Footer Widget 1"
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:24
+msgid "The first footer widget."
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:33
+msgid "Footer Widget 2"
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:34
+msgid "The second footer widget."
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:43
+msgid "Footer Widget 3"
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:44
+msgid "The third footer widget."
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:53
+msgid "Footer Widget 4"
+msgstr ""
+
+#: ../includes/inc-sidebars-init.php:54
+msgid "The fourth footer widget."
+msgstr ""
+
+#: ../includes/inc-theme-options.php:25 ../includes/inc-theme-options.php:25
+msgid "Global Options"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:38
+msgid "Zero"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:42
+msgid "One"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:46
+msgid "Two"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:50
+msgid "Three"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:54
+msgid "Four"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:58
+msgid "Five"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:65
+msgid "Yes"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:69
+msgid "No"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:73
+msgid "Maybe"
+msgstr ""
+
+#. . get_current_theme()
+#: ../includes/inc-theme-options.php:88
+msgid "Global Site Options"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:93
+msgid "Options saved"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:103
+msgid "Header Text EN"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:109
+msgid "Header Text DE"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:115
+msgid "Header Text NL"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:121
+msgid "Header Text FR"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:136
+msgid "Facebook header link"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:141
+msgid "Twitter header link"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:146
+msgid "Instagram header Link"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:151
+msgid "You tube header link"
+msgstr ""
+
+#: ../includes/inc-theme-options.php:241
+msgid "Save Options"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:10
+msgid "A list of categories, with slightly tweaked output."
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:11 ../includes/inc-widgets-internal.php:18
+msgid "Categories Custom"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:73
+msgid "Title:"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:77
+msgid "Show post counts"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:118
+msgid "Recent Posts by Category"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:121
+msgid "Display recent blog posts from a specific category"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:142
+msgid "Title"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:147
+msgid "Category"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:167
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:173
+msgid "Display post date?"
+msgstr ""
+
+#: ../includes/inc-widgets-internal.php:236
+msgid "No posts yet."
+msgstr ""
+
+#: ../includes/inc-wp-menus.php:12 ../includes/inc-wp-menus.php:24
+msgid "The Main Menu"
+msgstr ""
+
+#: ../includes/inc-wp-menus.php:13 ../includes/inc-wp-menus.php:73
+msgid "Footer Links"
+msgstr ""
+
+#: ../includes/inc-wp-menus.php:14 ../includes/inc-wp-menus.php:94
+msgid "Top Menu"
+msgstr ""
+
+#: ../multi-rating-pro/rating-form-optional-fields.php:10
+msgid "Name"
+msgstr ""
+
+#: ../multi-rating-pro/rating-form-optional-fields.php:20
+msgid "E-mail"
+msgstr ""
+
+#: ../multi-rating-pro/rating-form-optional-fields.php:30
+msgid "Comments"
+msgstr ""
+
+#: ../multi-rating-pro/rating-result-reviews.php:24
+msgid "All"
+msgstr ""
+
+#: ../multi-rating-pro/rating-result-reviews.php:98
+msgid "Anonymous"
+msgstr ""
+
+#. Name of the theme
+msgid "Vaporizer Info"
+msgstr ""
+
+#. Description of the theme
+msgid "Custom Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "NWRK"
+msgstr ""
+
+#: ../page-home.php:92 ../page-home.php:315
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: ../page-home.php:111 ../page-home.php:336 ../single.php:56
+msgid "Our rating"
+msgstr "Unsere Bewertung"
+
+#: ../page-home.php:148
+msgid "Featured reviews"
+msgstr "Testberichte"
+
+#: ../page-home.php:258
+msgid "We recommend"
+msgstr "Unsere empfehlung"
+
+#: ../searchform.php:10
+msgid "Search"
+msgstr "Suche"
+
+#: ../sidebar-single-post.php:11 ../single.php:115
+msgid "Specifications"
+msgstr "Spezifikationen"
+
+#: ../sidebar-single-post.php:17
+msgid "Share this review"
+msgstr "Teile diese Review"
+
+#: ../sidebar-single-post.php:36
+msgid "Latest reviews"
+msgstr "Neueste Reviews"
+
+#: ../sidebar-single-post.php:62
+msgid "Popular reviews"
+msgstr "Meistgelesene Reviews"
+
+#: ../sidebar-single-post.php:100 ../single.php:133
+msgid "Where to buy"
+msgstr "Wo kaufen"
+
+#: ../single.php:161
+msgid "We rate this vaporizer as follows"
+msgstr "Unser Endergebniss"
+
+#: ../single.php:173
+msgid "Average rating"
+msgstr "Durchschnittsbewertung"
+
+#: ../single.php:183
+msgid "Cleaning / Maintenance"
+msgstr "Reinigung & Pflege"
+
+#: ../single.php:193
+msgid "Performance"
+msgstr "Leistungsfähigkeit"
+
+#: ../single.php:203
+msgid "Value for Money"
+msgstr "Preis-Leistungs-Verhältnis"
+
+#: ../single.php:213
+msgid "Build Quality"
+msgstr "Verarbeitungsqualität"
+
+#: ../single.php:223
+msgid "Ease of Use"
+msgstr "Benutzerfreundlichkeit"
+
+#: ../single.php:240
+msgid "Average readers' rating"
+msgstr "Durchschnittliche Kundenbewertung"
+
+#: ../single.php:262
+msgid "Rating by our readers"
+msgstr "Kundenbewertungen"
+
+#: ../single.php:290
+msgid "Rate this vaporizer"
+msgstr "Diesen Vaporizer bewerten"
+
+#: ../includes/snip-product-specifications.php:30
+msgid "Brand"
+msgstr "Hersteller"
+
+#: ../includes/snip-product-specifications.php:35
+msgid "Suitable for"
+msgstr "Geeignet für"
+
+#: ../includes/snip-product-specifications.php:40
+msgid "Dimensions"
+msgstr "Abmessungen"
+
+#: ../includes/snip-product-specifications.php:45
+msgid "Weight"
+msgstr "Gewicht"
+
+#: ../includes/snip-product-specifications.php:50
+msgid "Battery capacity"
+msgstr "Akku Kapazität"
+
+#: ../includes/snip-product-specifications.php:55
+msgid "Heat-up time"
+msgstr "Aufwärmzeit"
